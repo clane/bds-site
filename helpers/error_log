@@ -61,3 +61,9 @@ Stack trace:
 [18-Aug-2021 03:36:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in bds_schedule.php on line 126
 [18-Aug-2021 03:44:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in bds_schedule.php on line 37
 [20-Aug-2021 02:26:28 UTC] PHP Parse error:  syntax error, unexpected end of file in bds_schedule.php on line 134
+[01-Sep-2021 03:41:47 UTC] PHP Notice:  Undefined variable: dbname in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 4
+[01-Sep-2021 03:41:47 UTC] PHP Notice:  Undefined variable: conn in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 5
+[01-Sep-2021 03:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/clane359/public_html/bds/helpers/bds_schedule.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 5

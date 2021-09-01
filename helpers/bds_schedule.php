@@ -3,7 +3,8 @@
 $table1 = "gigs";
 $query1 = "SELECT * FROM $dbname.$table1 WHERE date >= curdate() ORDER BY date ASC";  
 $result1 = $conn->query($query1); 
-var_dump($result1->num_rows);
+
+
 while ($row1 = $result1->fetch_assoc()) {
 
  	$gig_id =  $row1['id'];
@@ -52,6 +53,11 @@ while ($row1 = $result1->fetch_assoc()) {
 			}
 
 			$am_or_pm = "AM";
+
+			$timeParts  = explode(":", $start_time);
+			$hour = $timeParts[0]; 
+			$minute = $timeParts[1]; 
+
 
 			if($hour > 12) {
 				$hour -= 12;
