@@ -1,0 +1,142 @@
+
+
+
+body {
+	background-color:#000;
+}
+
+
+
+.offscreenText {
+position: absolute;
+clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+clip: rect(1px, 1px, 1px, 1px);
+padding: 0;
+border: 0;
+height: 1px; 
+width: 1px; 
+overflow: hidden;
+z-index: -1000;
+}
+
+#modalLink { width:230px; text-align:center; background-color:yellow; z-index:2; position:relative; top:100px; left:1000px;  border-radius:5px;  } 
+div.modal { display:block; } 
+#estPic { width:1000px; }
+figure img { position:relative; margin:10px 0 0 10px; display:block; padding:0;  }
+figure figcaption { font-size:2rem; border-radius:5px;  background-color:orange; width: 800px; margin:5px auto; padding:10px; text-align:center; }
+
+#modalClose { float:right; background-color:yellow; position:relative; top:-5px; } 
+
+h1 { font-size:3rem; } 
+
+#logo_container { text-align:center; margin:1rem auto;  font-size:3rem;  color:#ffffff; } 
+
+
+/*  BEGIN layout */
+.page {
+	margin: auto;
+	font-size:2.5rem; 
+	font-weight:normal !important; 
+        width:100%;
+	background-color:rgba(0, 0, 0, 0.5);
+}
+
+footer p {
+	color:#000000;
+	text-align:center;
+	padding-bottom:20px;
+}
+
+section ,footer {
+	display:block;
+	position:relative;
+	width:90%;
+	margin:auto;
+
+	/* BEGIN gradient */
+	background: -webkit-linear-gradient(90deg, #FF8008 10%, #FFC837 90%); /* Chrome 10+, Saf5.1+ */
+	background:    -moz-linear-gradient(90deg, #FF8008 10%, #FFC837 90%); /* FF3.6+ */
+	background:     -ms-linear-gradient(90deg, #FF8008 10%, #FFC837 90%); /* IE10 */
+	background:      -o-linear-gradient(90deg, #FF8008 10%, #FFC837 90%); /* Opera 11.10+ */
+	background:         linear-gradient(90deg, #FF8008 10%, #FFC837 90%); /* W3C */
+	/* END gradient */
+
+	margin-bottom:10px;
+	border-radius:5px;
+}
+
+section {
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+section div {
+	color:#000;
+	padding:15px;
+} 
+
+/*  END layout */
+
+
+header { 
+   width:90%;
+   margin:auto;
+}
+
+#logo_container {
+    background-image:url('../bds_images/bdsSign.png');
+    height:205px;
+    background-repeat:no-repeat;
+    background-position:center;
+    margin-bottom:30px;
+}
+
+
+/* BEGIN - Past Shows */
+.showCount { font-weight:700; } 
+.past_shows_item { margin-bottom:5px; }
+/* END - Past Shows */
+
+ 
+/* BEGIN schedule */
+#upcomingShows ul { padding:0; } 
+li.schedule_list_item {
+width:60%;
+padding: 5px;
+list-style-type:none; 
+margin-bottom: 10px; 
+border-radius:5px; 
+border:3px dotted #000000;
+background-color:rgba(255,255,255,0.2);
+}
+li.schedule_list_item td.dateTime { font-size:3rem; } 
+li.schedule_list_item td.venueName { font-size:3rem; text-decoration:underline; } 
+
+/* End schedule */
+
+
+/* BEGIN songlist */
+.songlist_item { margin-bottom:5px; overflow:hidden; } 
+.songlist_item audio {float:right; margin-right:10px; } 
+/* END songlist */
+
+video { width:400px; height:400px; }
+
+ol {
+background-color:rgba(255,255,255,0.2);
+width:80%;
+padding-left:5%;
+}
+
+/*Sumome contact form*/
+.sumome-contactform-template-default { padding-top:40px; }
+.sumome-contactform-link { display:none !important; }
+}
+
+
+/* Flyers */
+.flyerBody { background-color:#fff; font-size:4rem; } 
+.flyerBody h1  { padding:0; margin:0; font-size:6rem; } 
+.flyerBody h2  { padding:0; margin:0 0 5px 0; font-size:5rem; } 
+.flyer { border:10px solid #000; padding:30px; margin:50px auto; min-width:950px;  } 
+.flyerGigTable { border:9px dotted #000; padding:5px; background-color:#ccc; width:80%;  } 

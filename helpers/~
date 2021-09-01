@@ -1,0 +1,81 @@
+<?php
+	print '
+
+<nav>
+	<ul>
+		<li>
+			<a href="#">Nav Category</a>
+			<ul>
+				<li><a href="">item</a></li>
+				<li><a href="">item</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="#">Schedule</a>
+			<ul>
+				<li><a href="bds_schedule.php">Upcoming Shows</a></li>
+				<li><a href="bds_past_shows.php">Past Shows</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="#">Sights and Sounds</a>
+			<ul>
+				<li><a href="bds_music_bandpage.php">Music</a></li>
+				<li><a href="bds_videos_bandpage.php">Videos</a></li>
+				<li><a href="bds_photos_bandpage.php">Photos</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+
+		'
+	;
+
+/*
+	<a href="bds_schedule.php">Schedule</a>
+	<a href="bds_past_shows.php">Past Shows</a>
+	<a href="bds_songlist_v2.php">Songlist</a>
+	<a href="bds_facebook.php">Fans</a>
+	<a href="bds_music_bandpage.php">Music</a>
+	<a href="bds_videos_bandpage.php">Videos</a>
+	<a href="bds_photos_bandpage.php">Photos</a>
+	<a href="bdsIndex.php">Bio</a></li>
+	<a href="bds_email_list.php">Email List</a>
+	<a href="bds_press.php">Press</a>
+	<a href="bds_contact.php">Contact</a>
+*/
+
+/*
+
+<nav>
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Tutorials</a>
+			<ul>
+				<li><a href="#">Photoshop</a></li>
+				<li><a href="#">Illustrator</a></li>
+				<li><a href="#">Web Design</a>
+					<ul>
+						<li><a href="#">HTML</a></li>
+						<li><a href="#">CSS</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><a href="#">Articles</a>
+			<ul>
+				<li><a href="#">Web Design</a></li>
+				<li><a href="#">User Experience</a></li>
+			</ul>
+		</li>
+		<li><a href="#">Inspiration</a></li>
+	</ul>
+</nav>
+
+*/
+
+?>
+   

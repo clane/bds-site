@@ -1,0 +1,34 @@
+<?php
+
+
+
+  include('bds_vars.php');
+  $conn = mysql_connect($dbhost, $dbuser, $dbpass) or die ('Error connecting to mysql');
+  $table = 'songlist';
+  mysql_select_db($dbname);
+  $query = "SELECT DISTINCT artist FROM $table WHERE status=\"ready_for_live\"  ORDER BY artist";
+  
+  $artist_array = array();
+  
+  if ($r = mysql_query ($query)) {
+    while($row = mysql_fetch_array($r)){
+      $artist  =  "{$row['artist']}";
+      array_push($artist_array, $artist);
+    }
+  }
+  mysql_close();
+  
+  $last_artist = end($artist_array);
+  
+  print "<p id=\"artists\">";  
+  
+  foreach($artist_array as $artist) {
+    if(strcmp($artist,$last_artist) != 0){
+      print $artist.",&nbsp;";
+    } else {
+        print "and $artist.";
+    }
+  }
+  
+  print "</p>";
+?>

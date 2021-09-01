@@ -1,0 +1,70 @@
+<?php include('helpers/top.php');?>
+
+<div class="page">
+	
+<?php include('helpers/bds_header.php'); ?>
+
+<section id="aboutUs">
+<h2>About Us</h2>
+<p>We play current and classic covers by the following artists:</p>
+<?php include('helpers/bds_artists.php'); ?>
+</section>
+
+<section id="upcomingShows">
+<h2>Upcoming Shows</h2>
+<?php include('helpers/bds_schedule.php'); ?>
+</section>
+
+<section>
+<h2>Videos</h2>
+<h3>Facebook Videos</h3>
+<p>
+<a target="blank" href="https://www.facebook.com/trisha.mcvey.3/videos/10209724032764804/">Video of BDS at Sam's on 9/25/16 playing "Are You Going to Go My Way" from Tricia McVey</a>
+</p>
+
+<p>
+<a target="blank" href="https://www.facebook.com/trisha.mcvey.3/videos/10209724038164939/">Video of BDS at Sam's on 9/25/16 playing "Melt with You"  from Tricia McVey</a>
+</p>
+
+<h3>Youtube Videos</h3>
+<p>St. James Gate 11/5/16</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kmIkvZ2psqY" frameborder="0" allowfullscreen></iframe>
+
+<p>BDS at the St. Pius Festival on 6/4/16</p>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/u1H0X-j62mk" frameborder="0" allowfullscreen></iframe>
+
+<h3>Home Videos</h3>
+<p>Just Tim ...</p>
+<video src="./videos/TimStagePresenceAboundsWebVersion.mp4" controls>
+Sorry, your browser doesn't support embedded videos. 
+</video>
+
+<p>BDS at Winters Tavern in Pacifica on 9/6/2015.</p>
+<video src="./videos/BDS_at_Winters_090615_1.mp4" controls>
+Sorry, your browser doesn't support embedded videos. 
+</video>
+</section>
+
+<section id="pastShowsSection">
+<h2>Past Shows</h2>
+<?php include('helpers/bds_past_shows.php'); ?>
+</section>
+
+<section id="songlistSection">
+<h2>Songlist</h2>
+<?php include('helpers/bds_songlist.php'); ?>
+</section>
+
+<section id="songlistSection">
+<h2>Contact Us</h2>
+<p>For booking email John Kane at <a href="mailto:jkane49@hotmail.com">jkane49@hotmail.com</a></p>
+</section>
+
+
+<?php include('helpers/bds_footer.php'); ?>
+
+</div><!-- page -->
+
+
+</body>
+</html>

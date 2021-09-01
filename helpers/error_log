@@ -1,0 +1,63 @@
+[23-Mar-2019 05:25:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/clane359/public_html/bds/helpers/bds_artists_json.php on line 25
+[01-Aug-2021 23:56:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 28
+[01-Aug-2021 23:56:24 UTC] PHP Notice:  Undefined variable: band_name in /home/clane359/public_html/bds/helpers/bds_header.php on line 3
+[01-Aug-2021 23:56:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 28
+[01-Aug-2021 23:58:46 UTC] PHP Parse error:  syntax error, unexpected end of file in bds_schedule.php on line 27
+[02-Aug-2021 00:31:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 15
+[02-Aug-2021 00:32:52 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 11
+[02-Aug-2021 00:33:01 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 11
+[10-Aug-2021 13:44:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 11
+[10-Aug-2021 13:45:05 UTC] PHP Parse error:  syntax error, unexpected ')' in bds_schedule.php.bak on line 5
+[10-Aug-2021 13:48:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 5
+[10-Aug-2021 13:48:51 UTC] PHP Parse error:  syntax error, unexpected ')' in bds_schedule.php on line 5
+[10-Aug-2021 13:51:37 UTC] PHP Parse error:  syntax error, unexpected ')' in bds_schedule.php on line 5
+[10-Aug-2021 13:51:54 UTC] PHP Parse error:  syntax error, unexpected '>' in bds_schedule.php on line 16
+[10-Aug-2021 13:59:44 UTC] PHP Parse error:  syntax error, unexpected '>' in bds_schedule.php on line 14
+[10-Aug-2021 14:02:12 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 11
+[10-Aug-2021 14:05:40 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 11
+[10-Aug-2021 14:09:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 11
+[10-Aug-2021 14:15:35 UTC] PHP Warning:  Unterminated comment starting line 15 in bds_schedule.php on line 15
+[10-Aug-2021 14:15:41 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 15
+[10-Aug-2021 14:15:41 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[10-Aug-2021 14:15:41 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[10-Aug-2021 14:17:52 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[10-Aug-2021 14:17:52 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[11-Aug-2021 00:42:46 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[11-Aug-2021 00:42:46 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[11-Aug-2021 00:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/clane359/public_html/bds/helpers/bds_songlist.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clane359/public_html/bds/helpers/bds_songlist.php on line 3
+[11-Aug-2021 03:48:38 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in bds_schedule.php on line 8
+[11-Aug-2021 03:50:45 UTC] PHP Notice:  Undefined variable: dbname in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 4
+[11-Aug-2021 03:50:45 UTC] PHP Notice:  Undefined variable: conn in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 6
+[11-Aug-2021 03:50:45 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 8
+[11-Aug-2021 03:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/clane359/public_html/bds/helpers/bds_schedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 8
+[11-Aug-2021 03:50:58 UTC] PHP Notice:  Undefined variable: dbname in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 4
+[11-Aug-2021 03:50:58 UTC] PHP Notice:  Undefined variable: conn in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 6
+[11-Aug-2021 03:50:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 8
+[11-Aug-2021 03:50:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/clane359/public_html/bds/helpers/bds_schedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 8
+[11-Aug-2021 03:51:48 UTC] PHP Notice:  Undefined variable: dbname in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 4
+[11-Aug-2021 03:51:48 UTC] PHP Notice:  Undefined variable: conn in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 6
+[11-Aug-2021 03:51:48 UTC] PHP Notice:  Undefined variable: conn in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 8
+[11-Aug-2021 03:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/clane359/public_html/bds/helpers/bds_schedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/clane359/public_html/bds/helpers/bds_schedule.php on line 8
+[17-Aug-2021 15:10:19 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[17-Aug-2021 15:10:20 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 13
+[17-Aug-2021 15:10:20 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/clane359/public_html/bds/helpers/bds_nextShow.php on line 5
+[17-Aug-2021 15:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/clane359/public_html/bds/helpers/bds_nextShow.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/clane359/public_html/bds/helpers/bds_nextShow.php on line 9
+[18-Aug-2021 03:28:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in bds_schedule.php on line 34
+[18-Aug-2021 03:36:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in bds_schedule.php on line 126
+[18-Aug-2021 03:44:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in bds_schedule.php on line 37
+[20-Aug-2021 02:26:28 UTC] PHP Parse error:  syntax error, unexpected end of file in bds_schedule.php on line 134
