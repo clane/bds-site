@@ -74,6 +74,5 @@ while ($row1 = $result1->fetch_assoc()) {
 
 }//END while ($row1 = $result1->fetch_assoc())
 
-print $html;
 
 ?>
