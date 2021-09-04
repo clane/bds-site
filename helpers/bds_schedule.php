@@ -4,8 +4,11 @@ $table1 = "gigs";
 $query1 = "SELECT * FROM $dbname.$table1 WHERE date >= curdate() ORDER BY date ASC";  
 $result1 = $conn->query($query1); 
 
+$html .= "<ul>";
 
 while ($row1 = $result1->fetch_assoc()) {
+
+	$html .= "<li>";
 
  	$gig_id =  $row1['id'];
 
@@ -34,6 +37,8 @@ while ($row1 = $result1->fetch_assoc()) {
 			$phone = $row2['phone'];
 			$url = $row2['url'];
          } 
+
+
 			$daystrings[0] = "Sunday";
 			$daystrings[1] = "Monday";
 			$daystrings[2] = "Tuesday";
@@ -43,9 +48,7 @@ while ($row1 = $result1->fetch_assoc()) {
 			$daystrings[6] = "Saturday";
 
 			if($day){
-			   $html .= "<table>";
-			   $html .= "<tr>";
-			   $html .= "<td class=\"dateTime\">";
+			   $html .= "<div>";
 			   $html .= $daystrings[$day_of_week - 1]."&nbsp;";
 			   $html .= $month."/".$day."/".$year;
 			   $html .= "&nbsp;@&nbsp;";
@@ -66,19 +69,36 @@ while ($row1 = $result1->fetch_assoc()) {
 
 			$start_time = "$hour:$minute $am_or_pm";
 			$html .= $start_time;
-			$html .= "</td>";
-			$html .= "</tr>";
-			$html .= "<tr>";
-			$html .= "<td class=\"venuename\">";
+			$html .= "</div>";
+			$html .= "<div>";
 			$html .= $venue_name;
-			$html .= "</td>";
-			$html .= "</tr>";
-			$html .= "</table>";
+			$html .= "</div>";
+
+			$html .= "<div>";
+			$html .= $street_address;
+			$html .= "&nbsp;";
+			$html .= $city;
+			$html .= "&nbsp;";
+			$html .= $state;
+			$html .= "&nbsp;";
+			$html .= $zip;
+			$html .= "</div>";
+			$html .= "<div>";
+			$html .= $phone;
+			$html .= "</div>";
+			$html .= "<div>";
+			$html .= $url;
+			$html .= "</div>";
+			$html .= "<div>";
+			$html .= $description;
+			$html .= "</div>";
 
 		}//END if($id)
 
+	$html .= "</li>";
 
 }//END while ($row1 = $result1->fetch_assoc())
 
+$html .= "</div>";
 
 ?>

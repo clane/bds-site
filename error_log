@@ -15131,3 +15131,119 @@ Stack trace:
 [01-Sep-2021 03:53:20 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
 [01-Sep-2021 03:53:20 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
 [01-Sep-2021 03:53:20 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 03:56:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 03:56:22 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 03:56:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 03:56:22 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 10:19:55 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 10:19:55 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 10:19:55 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[01-Sep-2021 10:19:55 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:55:04 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:55:04 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:55:04 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:55:04 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:57:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:57:56 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:57:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:57:56 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:59:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:59:17 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:59:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 00:59:17 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 01:01:48 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 01:01:48 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 01:01:48 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 01:01:48 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 02:51:10 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 02:51:11 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 02:51:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 02:51:11 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 03:19:49 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 03:19:49 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 03:19:49 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 03:19:49 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 06:08:33 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 06:08:33 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 06:08:33 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 06:08:33 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 09:36:34 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 09:36:34 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 09:36:34 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 09:36:34 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 14:32:47 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 14:32:47 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 14:32:47 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 14:32:47 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 23:12:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 23:12:11 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 23:12:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[02-Sep-2021 23:12:11 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 19:36:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 19:36:29 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 19:36:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 19:36:29 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:51:48 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:51:49 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:51:49 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:51:49 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:53:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:53:11 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:53:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:53:11 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:54:16 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:54:16 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:54:16 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:54:16 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:55:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:55:17 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:55:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:55:17 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:56:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:56:17 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:56:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:56:17 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:57:15 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:57:15 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:57:15 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 22:57:15 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:16:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:16:39 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:16:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:16:39 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:31 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:31 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:37 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:37 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:37 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:17:37 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:21:46 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:21:46 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:21:46 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:21:46 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:22:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:22:26 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:22:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:22:26 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:23:57 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:23:57 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:23:57 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:23:57 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:26:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:26:26 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:26:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:26:26 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:27:57 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:27:57 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:27:57 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:27:57 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:29:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:29:28 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:29:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:29:28 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:30:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:30:31 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:30:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
+[03-Sep-2021 23:30:31 UTC] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/clane359/public_html/bds/helpers/bds_vars.php on line 14
