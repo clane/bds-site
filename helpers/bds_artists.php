@@ -1,7 +1,6 @@
 <?php
 
 
-require('bds_vars.php');
 $table = 'songlist';
 $query = "SELECT DISTINCT artist FROM $dbname.$table WHERE status=\"ready_for_live\" ORDER BY artist";
 $artist_array = array();
@@ -17,16 +16,16 @@ if($result->num_rows > 0) {
   
 $last_artist = end($artist_array);
   
-print "<p id=\"artists\">";  
+$html .=  "<p id=\"artists\">";  
   
 foreach($artist_array as $artist) {
 	if(strcmp($artist,$last_artist) != 0){
-    	print $artist.",&nbsp;";
+    	$html .=  $artist.",&nbsp;";
     } else {
-        print "and $artist.";
+       $html .=  "and $artist.";
     }
 }
   
-	print "</p>";
+	$html .= "</p>";
 
 ?>
