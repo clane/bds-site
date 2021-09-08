@@ -52,8 +52,6 @@ while ($row1 = $result1->fetch_assoc()) {
 			   $html .= "<div>";
 			   $html .= $daystrings[$day_of_week - 1]."&nbsp;";
 			   $html .= $month."/".$day."/".$year;
-			   //$html .= "&nbsp;@&nbsp;";
-
 			}
 
 			$am_or_pm = "AM";
@@ -69,30 +67,16 @@ while ($row1 = $result1->fetch_assoc()) {
 			}
 
 			$start_time = "$hour:$minute $am_or_pm";
-			//$html .= $start_time;
 			$html .= "</div>";
 			$html .= "<div>";
 			$html .= $venue_name;
 			$html .= "</div>";
 
 			$html .= "<div>";
-			//$html .= $street_address;
-			$html .= "&nbsp;";
 			$html .= $city;
 			$html .= "&nbsp;";
 			$html .= $state;
-			//$html .= "&nbsp;";
-			//$html .= $zip;
-			//$html .= "</div>";
-			//$html .= "<div>";
-			//$html .= $phone;
-			//$html .= "</div>";
-			//$html .= "<div>";
-			//$html .= $url;
-			//$html .= "</div>";
-			//$html .= "<div>";
-			//$html .= $description;
-			//$html .= "</div>";
+			$html .= "</div>";
 
 		}//END if($id)
 
