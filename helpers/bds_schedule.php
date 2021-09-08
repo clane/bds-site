@@ -4,7 +4,7 @@ $table1 = "gigs";
 $query1 = "SELECT * FROM $dbname.$table1 WHERE date >= curdate() ORDER BY date ASC";  
 $result1 = $conn->query($query1); 
 
-$html .= "<ul>";
+$html .= "<ol>";
 
 while ($row1 = $result1->fetch_assoc()) {
 
@@ -87,7 +87,9 @@ while ($row1 = $result1->fetch_assoc()) {
 			$html .= $phone;
 			$html .= "</div>";
 			$html .= "<div>";
+			$html .= "<a href=\"$url\">";
 			$html .= $url;
+			$html .= "</a>";
 			$html .= "</div>";
 			$html .= "<div>";
 			$html .= $description;
@@ -99,6 +101,6 @@ while ($row1 = $result1->fetch_assoc()) {
 
 }//END while ($row1 = $result1->fetch_assoc())
 
-$html .= "</ul>";
+$html .= "</ol>";
 
 ?>
