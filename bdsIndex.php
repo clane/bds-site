@@ -13,6 +13,9 @@ $html .= "<h2>Artists We Cover</h2>";
 require('helpers/bds_artists.php');
 
 
+$html .= "<h2>Past Shows</h2>";
+require('helpers/bds_past_shows.php');
+
 
 
 $html .= "</body>"; 
